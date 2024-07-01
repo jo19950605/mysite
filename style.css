@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+
+.atama {
+  display: flex;
+  justify-content: space-between;
+}
+
+.herder-left {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+img {
+  border-radius: 50%;
+}
+
+main {
+ width: 1000px;
+ height: 100vh;
+  color: white;
+background-image:url(aig-ai230829B085-xl_TP_V.jpg);
+background-size: cover;
+/* background-color: rgba(255,255,255,0.5); */
+/* background:repeat; */
+opacity: 0.8;
+text-align: center;
+letter-spacing: 0.5em;
+line-height: 2.0;
+/* vertical-align: middle; */
+/* display: flex; */
+
+}
+
+footer {
+  background: green;
+}
